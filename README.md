@@ -1,5 +1,7 @@
 # Machine Learning Lønsforudsigelse - Dokumentation
 
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/6b05152b-51a8-4715-a8e8-adf7f68f1a8a" />
+
 ## Input (Features) og Output (Target)
 
 I machine learning skelnes der mellem input og output data. **Input** eller **features** er de variabler, der bruges som grundlag for forudsigelser. **Output** eller **target** er den værdi, der ønskes forudsagt.
