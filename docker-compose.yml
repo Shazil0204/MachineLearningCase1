@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  ml-app:
+    build: .
+    container_name: ml-case1-app
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    stdin_open: true
+    tty: true
